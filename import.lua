@@ -1,0 +1,1 @@
+NCS = exports["ncs_core"]:getLibrary() -- "ncs_core": Framework ressource name
