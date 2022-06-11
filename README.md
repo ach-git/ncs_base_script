@@ -1,6 +1,6 @@
-# ncs_base_script
+# NextCitizens base script
 
-Is a simple base script for ncs_core
+Is a simple base script for ncs_core.
 
 ## Installation:
 
@@ -12,7 +12,8 @@ and it's done.
 
 ## ncs_core:
 
-ncs_base_sript is using [ncs_core](https://github.com/NextCitizens/ncs_core/).
+ncs_base_sript is using [ncs_core](https://github.com/NextCitizens/ncs_core/). NCS is a core created by the community, for the community. It was designed to enhance FiveM server development based on
+RolePlay. NCS was created and maintained by the community and will not be left behind.
 
 ### Useful links:
 
