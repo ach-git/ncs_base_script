@@ -10,9 +10,9 @@ ensure ncs_base_script
 ```
 and it's done.
 
-## ncs_core:
+## NextCitizens:
 
-ncs_base_sript is using [ncs_core](https://github.com/NextCitizens/ncs_core/). NCS is a core created by the community, for the community. It was designed to enhance FiveM server development based on
+NextCitizens base script is using [ncs_core](https://github.com/NextCitizens/ncs_core/). NCS is a core created by the community, for the community. It was designed to enhance FiveM server development based on
 RolePlay. NCS was created and maintained by the community and will not be left behind.
 
 ### Useful links:
