@@ -17,6 +17,9 @@ ncs_base_sript is using [ncs_core](https://github.com/NextCitizens/ncs_core/).
 ### Useful links:
 
 [ncs_core](https://github.com/NextCitizens/ncs_core/)
+
 [ncs documentation](https://nextcitizens.github.io/ncs_documentation/)
+
 [ncs snippets](https://marketplace.visualstudio.com/items?itemName=NextCitizens-Snippets.nextcitizens-snippets)
+
 [ncs discord](https://discord.gg/T8u4JsserD)
