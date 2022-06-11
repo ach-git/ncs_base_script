@@ -1,6 +1,6 @@
 # NextCitizens base script
 
-Is a simple base script for ncs_core.
+It's a simple base script for ncs_core.
 
 ## Installation:
 
